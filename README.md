@@ -23,5 +23,5 @@ THEN that note appears in the right-hand column<br />
 WHEN I click on the Write icon in the navigation at the top of the page<br />
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column<br />
 ## **Links to Portfolio**
-* GitHub Repository Link - https://github.com/LawthouaMXiong/Challenge11
+* GitHub Repository Link - https://github.com/LawthouaMXiong/NoteTaker
 * Deployed Link: https://safe-earth-28619-9970c6cd513b.herokuapp.com/
